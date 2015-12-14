@@ -1,52 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="20dp">
-
-    <com.shlmlkzdh.bulletprogressbar.BulletProgressBar
-        android:id="@+id/bpb0"
-        android:layout_width="match_parent"
-        android:layout_height="100px"
-        android:layout_margin="10dp" />
-
-    <com.shlmlkzdh.bulletprogressbar.BulletProgressBar
-        android:id="@+id/bpb1"
-        android:layout_width="match_parent"
-        android:layout_height="100px"
-        android:layout_margin="10dp" />
-
-    <com.shlmlkzdh.bulletprogressbar.BulletProgressBar
-        android:id="@+id/bpb2"
-        android:layout_width="match_parent"
-        android:layout_height="100px"
-        android:layout_margin="10dp" />
-
-    <com.shlmlkzdh.bulletprogressbar.BulletProgressBar
-        android:id="@+id/bpb3"
-        android:layout_width="match_parent"
-        android:layout_height="100px"
-        android:layout_margin="10dp" />
-
-    <com.shlmlkzdh.bulletprogressbar.BulletProgressBar
-        android:layout_width="match_parent"
-        android:layout_height="100px"
-        android:layout_margin="10dp"
-        app:bp_border_width="5dp"
-        app:bp_bullet_background_color="@android:color/black"
-        app:bp_bullet_color="@android:color/white"
-        app:bp_length="6"
-        app:bp_progress="4"
-
-        app:bp_shadow_radius="0dp" />
-
-    <com.shlmlkzdh.bulletprogressbar.BulletProgressBar
-        android:id="@+id/bpb5"
-        android:layout_width="match_parent"
-        android:layout_height="100px"
-        android:layout_margin="10dp" />
 
 </LinearLayout>
