@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <declare-styleable name="BulletProgressBar">
+
+        <attr name="bp_bullet_background_color" format="color" />
+        <attr name="bp_bullet_color" format="color" />
+        <attr name="bp_border_width" format="dimension" />
+        <attr name="bp_shadow_radius" format="dimension" />
+        <attr name="bp_length" format="integer" />
+        <attr name="bp_progress" format="integer" />
+
+    </declare-styleable>
+
+</resources>
